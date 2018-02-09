@@ -1,0 +1,248 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.div1-1 {
+  margin: 60px 80px;
+  width:970px;
+  height:1390px;
+  background: #000;
+}
+.sec1-1, .art1-1, .sec1-2{
+  display: inline-block;
+
+}
+.sec1-1{
+  margin: 10px 0 30px 40px ;
+  width:900px ;
+  height:600px ;
+  background-color: green;
+}
+.art1-1{
+  margin: 20px 10px 30px 60px;
+  width:900px ;
+  height:400px ;
+  background-color: red;
+}
+.sec1-2{
+  margin: 0px 40px 30px 30px;
+  width:900px ;
+  height:300px ;
+  background-color:  blue;
+}
+
+
+
+.div2-1 {
+  margin: 60px 80px;
+  width:895px;
+  height:950px;
+  background: #000;
+}
+.sec2-1, .art2-1, .sec2-2{
+  display: inline-block;
+
+}
+.sec2-1{
+  margin: 30px 20px 0 40px ;
+  width:835px ;
+  height:260px ;
+  background-color: green;
+}
+.nav2-1{
+  margin: 30px 15px 0 20px ;
+  width: 800px;
+  height: 100px;
+  background: gray;
+}
+.nav2-2{
+  margin: 20px 15px 10px 20px;
+  width: 800px;
+  height: 100px;
+  background: gray;
+}
+.art2-1{
+  margin: 15px 30px 20px 30px;
+  width:835px ;
+  height:350px ;
+  background-color: red;
+
+}
+.sec2-3{
+  margin: 30px 25px 20px 10px;
+  width:800px ;
+  height:300px ;
+  background-color:  white;
+}
+.sec2-2{
+  margin: 0px 15px 25px 25px;
+  width:835px ;
+  height:250px ;
+  background-color:  blue;
+}
+
+
+.div3-1 {
+  margin: 40px 30px;
+  width:980px;
+  height:830px;
+  background: #000;
+}
+.sec3-1, .art3-1, .sec3-1,.art3-1,.sec3-2,.sec3-3,.sec3-4,.art3-2,.art3-3,.art3-4{
+  display: inline-block;
+
+}
+.sec3-1{
+  margin: 10px 40px 0 40px;
+  width:900px;
+  height:300px;
+  background-color: pink;
+}
+.art3-1{
+  margin: 30px 50px 0px 30px;
+  width:900px ;
+  height:240px ;
+  background-color: red;
+}
+.sec3-2{
+  margin: 10px 15px 0 15px ;
+  width:850px ;
+  height:100px ;
+  background-color: green;
+}
+.sec3-3{
+  margin: 20px 15px 0 15px ;
+  width:850px ;
+  height:100px ;
+  background-color: white;
+}
+.sec3-4{
+  margin: 40px 60px 10px 20px;
+  width:900px ;
+  height:200px ;
+  background-color:  blue;
+}
+.art3-2{
+  margin: 30px 30px 30px 30px;
+  width:860px ;
+  height:140px ;
+  background-color: gray;
+}
+.art3-3{
+  margin: 20px 0 20px 20px;
+  width:820px ;
+  height:100px ;
+  background-color: green;
+}
+.art3-4{
+  margin: 10px 20px 10px 20px;
+  width:780px ;
+  height:80px ;
+  background-color: red;
+}
+
+
+.div4-1 {
+  margin: 40px 40px;
+  width:1000px;
+  height:1200px;
+  background: #000;
+}
+.sec4-1,.sec4-1,.art4-1,.sec4-2,.art4-2,.nav4-1,.sec4-3,.art4-3,.nav4-2{
+  display: inline-block;
+}
+.sec4-1{
+  margin: 20px 20px 20px 20px;
+  width:960px;
+  height:1160px;
+  background-color: pink;
+}
+.art4-1{
+  margin: 30px 30px 30px 30px;
+  width:900px ;
+  height:1100px ;
+  background-color: red;
+}
+.sec4-2{
+  margin: 20px 10px 0 10px ;
+  width:880px ;
+  height:520px ;
+  background-color: green;
+}
+.art4-2{
+  margin: 10px 20px 10px 20px;
+  width:840px ;
+  height:500px ;
+  background-color: gray;
+}
+.nav4-1{
+  margin: 20px 30px 20px 30px;
+  width:780px ;
+  height:460px ;
+  background-color:  blue;
+}
+.sec4-3{
+  margin: 20px 10px 0 10px ;
+  width:880px ;
+  height:520px ;
+  background-color: green;
+}
+.art4-3{
+  margin: 10px 20px 10px 20px;
+  width:840px ;
+  height:500px ;
+  background-color: gray;
+}
+.nav4-2{
+  margin: 20px 30px 20px 30px;
+  width:780px ;
+  height:460px ;
+  background-color:  blue;
+}
+
+
+.div5-1{
+  margin: 70px 60px;
+  width:920px;
+  height:1480px;
+  background: #000;
+}
+.sec5-1,.nav5-1,.nav5-2,.nav5-3,.nav5-4,.art5-1{
+    display: inline-block;
+}
+.sec5-1{
+  margin: 20px 60px 0 40px;
+  width:820px ;
+  height:1200px ;
+  background-color: red;
+}
+.nav5-1{
+  margin: 20px 30px 0 30px;
+  width:760px ;
+  height:300px ;
+  background-color: gray;
+}
+.nav5-2{
+  margin: 30px 20px 0 40px;
+  width:760px ;
+  height:300px ;
+  background-color: gray;
+}
+.nav5-3{
+  margin: 15px 40px 0 20px;
+  width:760px ;
+  height:300px ;
+  background-color: gray;
+}
+.nav5-4{
+  margin: 15px 45px 20px 15px;
+  width:760px ;
+  height:200px ;
+  background-color: gray;
+}
+.art5-1{
+  margin: 40px 100px 60px 100px;
+  width:700px ;
+  height:200px ;
+  background-color: orange;
+}
